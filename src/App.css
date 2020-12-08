@@ -1,0 +1,23 @@
+body {
+  background: #EDECEC;
+}
+.nav-form {
+  width: 100%;
+}
+.nav-form .form-control {
+  background: #313131;
+  color: #EDECEC;
+  border: none;
+}
+.btn-search {
+  background: #E71D36;
+  color: #FFFFFF;
+}
+.article {
+  background: #FFFFFF;
+}
+.article-image {
+  height: 263px;
+  background-size: cover;
+  background-position: center;
+}
